@@ -4,7 +4,7 @@
 
   <groupId>org.sonarqube</groupId>
   <artifactId>example-java-maven</artifactId>
-  <version>1.0-SNAPSHOTSS</version>
+  <version>1.0-SNAPSHOTSSSS</version>
 
   <name>Java :: Simple Project :: SonarQube Scanner for Maven</name>
 
